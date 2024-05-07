@@ -5,13 +5,13 @@ README Template :
 ## This Challenge contains a Note Taker generator to include the following functions:
 - Allows users to enter a note title
 - Allows users to enter a note text
-- Allos users to save text and list it out notes to them.
+- Allows users to save text and list it out notes to them.
 
 
 ## Installation
 - To access the Note Taker Generator repository: https://github.com/ricanlonghorn23/Note-Taker.git
 
-- To access the Note Taker Generator website: https://ricanlonghorn23.github.io/Note-Taker/
+- To access the Note Taker Generator website: https://note-taker-idaf.onrender.com/
 
 
 
