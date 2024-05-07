@@ -11,12 +11,12 @@ README Template :
 ## Installation
 - To access the Note Taker Generator repository: https://github.com/ricanlonghorn23/Note-Taker.git
 
-- To access the Note Taker Generator website:
+- To access the Note Taker Generator website: https://ricanlonghorn23.github.io/Note-Taker/
 
 
 
 ## Usage
-The user will go to the URL: xxxxx. They click on the "Get Started" button. The user will then be directed to the notes page. They will see their current list of notes if any had been saved. They will then start typing in the "Note Title" box and then the "Note Text" box. If they do not like what they wrote they can hit the "Clear Form" button and it will clear information. If they would like to save information they will then click the "Save button” and the information will be added to the list of already saved information.  
+The user will go to the URL: https://ricanlonghorn23.github.io/Note-Taker/. They click on the "Get Started" button. The user will then be directed to the notes page. They will see their current list of notes if any had been saved. They will then start typing in the "Note Title" box and then the "Note Text" box. If they do not like what they wrote they can hit the "Clear Form" button and it will clear information. If they would like to save information they will then click the "Save button” and the information will be added to the list of already saved information.  
 
 
 ## Credits
