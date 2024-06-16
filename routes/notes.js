@@ -28,4 +28,11 @@ notesRouter.post('/', (req, res) => {
     res.json(newNote);
 });
 
+notesRouter.delete('/:id', (req, res) => {
+    const noteId = parseInt(req.params.id, 10);
+    let notes = readNotesFromFile();
+    notes = notes.filter(note => note.id !== noteId);
+    writeNotesToFile(notes);
+    res.json({ message: `Note with id ${noteId} deleted.` });
+});
 module.exports = { notesRouter };
