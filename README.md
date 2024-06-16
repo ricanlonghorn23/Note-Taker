@@ -11,7 +11,7 @@ README Template :
 ## Installation
 - To access the Note Taker Generator repository: https://github.com/ricanlonghorn23/Note-Taker.git
 
-- To access the Note Taker Generator website: https://note-taker-idaf.onrender.com/
+- To access the Note Taker Generator website: https://note-taker-zytq.onrender.com
 
 
 
